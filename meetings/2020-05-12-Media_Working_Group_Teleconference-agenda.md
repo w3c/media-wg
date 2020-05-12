@@ -38,7 +38,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 Chairs: Jer Noble, Mounir Lamouri
 
-WebEx: [https://lists.w3.org/Archives/Member/w3c-archive/2020Jan/0323.html]()
+WebEx: https://lists.w3.org/Archives/Member/w3c-archive/2020Jan/0323.html
 
 IRC: [irc.w3.org](http://irc.w3.org/):6667 #mediawg
 
