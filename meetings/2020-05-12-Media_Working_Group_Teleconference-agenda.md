@@ -17,10 +17,10 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 > Hi everyone. chcunningham@ and I would like to (re)open up discussion with respect to how MediaCapabilities.decodingInfo() should handle discrepancies between colorGamut & transferFunction input and and the color information implicit in mime types like VP9 and AV1. 
  >
 
-* TextTrackCue: add optional event synchronisation [https://github.com/whatwg/html/issues/5306]()
+* TextTrackCue: add optional event synchronisation https://github.com/whatwg/html/issues/5306
 > A proposal to add recommended timing accuracy for TextTrackCue event synchronization (either as note or a 'should'): https://github.com/whatwg/html/issues/5306. With implementation changes to Chromium currently in progress, I think all major browser engines now achieve the recommended timing accuracy in practice.
 
-* TextTrackCue: add unbounded duration [https://github.com/whatwg/html/issues/5297]()
+* TextTrackCue: add unbounded duration https://github.com/whatwg/html/issues/5297
 > A proposed change to allow TextTrackCues with unbounded duration: https://github.com/whatwg/html/issues/5297
 
 ### Media Working Group Teleconference - 2020-05-12
