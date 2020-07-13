@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [Github](https://github.com/w3c/media-wg/blob/master/meetings/2020-07-14-Media_Working_Group_Teleconference-agenda.md).
 
-This is a special edition of the teleconference, as [mentioned previously](https://lists.w3.org/Archives/Public/public-media-wg/2020Jun/0004.html), it will be a join meeting with the CSS WG and therefore all other topics have been punted to the next meeting in August.
+This is a special edition of the teleconference, as [mentioned previously](https://lists.w3.org/Archives/Public/public-media-wg/2020Jun/0004.html), it will be a joint meeting with the CSS WG and therefore all other topics have been punted to the next meeting in August.
 
 * [w3c/media-wg#18 Joint meeting between CSS WG and Media WG](https://github.com/w3c/media-wg/issues/18) - mounirlamouri
 > The joint meeting will be focused on the following issue: https://github.com/w3c/csswg-drafts/issues/5044
