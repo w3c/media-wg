@@ -11,6 +11,9 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [w3c/encrypted-media#473 Handling hardware context reset](https://github.com/w3c/encrypted-media/issues/473) - xhwang-chromium
 > Getting opinion on the group with regards to this problem and proposal.
 
+* TPAC 2020 meeting and joint group meetings - chrisn
+> Does the Media WG plan to meet during TPAC? Joint meetings with other groups, e.g., M&E IG, TTWG, WICG (Web Codecs)?
+
 ### Media Working Group Teleconference - 2020-08-11
 
 <table>
