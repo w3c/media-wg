@@ -10,6 +10,9 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [w3c/media-wg#22 Review group milestones](https://github.com/w3c/media-wg/issues/22) - tidoust
 > The [Media WG's charter](https://www.w3.org/2019/05/media-wg-charter.html#timeline) happily asserts that all specifications developed by the group will be published as Candidate Recommendations (CR) by the end of 2020. I'm raising this issue to track the publication status of the group's deliverables, and discuss an updated timeline.
 
+* [w3c/picture-in-picture#99 Should PiP video removed from the DOM leave PiP?](https://github.com/w3c/picture-in-picture/issues/99) - beaufortfrancois
+> In Chrome and Safari, a video element not attached to the DOM can start playing and enter Picture-in-Picture. When video is attached to the DOM while playing in Picture-in-Picture, browser implementations  differ though when video is removed from the DOM:
+
 ### Media Working Group Teleconference - 2020-12-08
 
 <table>
