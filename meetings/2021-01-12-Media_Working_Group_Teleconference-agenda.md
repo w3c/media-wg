@@ -13,6 +13,9 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [w3c/picture-in-picture#99 Should PiP video removed from the DOM leave PiP?](https://github.com/w3c/picture-in-picture/issues/99) - beaufortfrancois
 > In Chrome and Safari, a video element not attached to the DOM can start playing and enter Picture-in-Picture. When video is attached to the DOM while playing in Picture-in-Picture, browser implementations  differ though when video is removed from the DOM:
 
+* [w3c/encrypted-media#480 Remove 'persistent-usage-record' MediaKeySessionType](https://github.com/w3c/encrypted-media/issues/480) - gregwfreedman
+> For various reasons, Netflix has decided not to use the 'persistent-usage-record' MediaKeySessionType moving forward. Before removing this feature from the latest Editor's Draft, I want to know if there's any interest outside Netflix in keeping this feature.
+
 ### Media Working Group Teleconference - 2021-01-12
 
 <table>
