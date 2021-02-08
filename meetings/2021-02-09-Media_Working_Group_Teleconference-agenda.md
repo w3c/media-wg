@@ -4,13 +4,11 @@ This agenda can be viewed and updated on [Github](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [w3c/media-wg#24 Move WebCodecs to the Media WG](https://github.com/w3c/media-wg/issues/24) - mounirlamouri
-> This is an issue meant to track the work being done:
- >- [x] Get Editors blessing
-
 * [w3c/media-wg#26 Survey about group registries](https://github.com/w3c/media-wg/issues/26) - tidoust
 > The Media Working Group maintains the [MSE Byte Stream Format Registry](https://www.w3.org/TR/mse-byte-stream-format-registry/), the [EME Initialization Data Format Registry](https://www.w3.org/TR/eme-initdata-registry/) and the [EME Stream Format Registry](https://www.w3.org/TR/eme-stream-registry/). These registries have been published as Working Group Notes. In practice, W3C has no standard way to maintain registries.
- >
+
+* [w3c/media-wg#24 Move WebCodecs to the Media WG](https://github.com/w3c/media-wg/issues/24) - mounirlamouri
+> Keeping this in the agenda if someone wants to share feedback related to the CfC during the meeting.
 
 ### Media Working Group Teleconference - 2021-02-09
 
