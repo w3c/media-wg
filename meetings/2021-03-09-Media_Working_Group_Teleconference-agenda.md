@@ -16,6 +16,10 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [w3c/media-wg#24 Move WebCodecs to the Media WG](https://github.com/w3c/media-wg/issues/24) - mounirlamouri
 > Quick update.
 
+* [w3c/media-capabilities#165 Define MediaCapabilitiesDecodingInfo.codecSwitchingSupported](https://github.com/w3c/media-capabilities/pull/165) - chcunningham
+> Interop feedback/discussion.
+
+
 ### Media Working Group Teleconference - 2021-03-09
 
 <table>
