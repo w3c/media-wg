@@ -13,3 +13,4 @@ Specifications published by the Media Working Group are developed in separate Gi
 * [Media Session](https://github.com/w3c/mediasession/)
 * [Media Source Extensions™ (MSE)](https://github.com/w3c/media-source/)
 * [Picture-in-picture](https://github.com/w3c/picture-in-picture/)
+* [WebCodecs](https://github.com/w3c/webcodecs/)
