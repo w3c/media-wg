@@ -4,10 +4,25 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [w3c/webcodecs#213 Should ImageDecoder IsTypeSupported be (a)synchronous?](https://github.com/w3c/webcodecs/issues/213) - chcunningham
+* [w3c/webcodecs#211 Should WebCodecs be exposed in Window environments?](https://github.com/w3c/webcodecs/issues/211)
 
-* [w3c/webcodecs#239 Is exposing https://w3c.github.io/webcodecs/#enumdef-hardwareacceleration a good idea](https://github.com/w3c/webcodecs/issues/239) - youennf
+> Chairs' status update
 
+* [w3c/media-wg#28 New Media WG charter](https://github.com/w3c/media-wg/issues/28) - @tidoust
+
+> Due to the switch to the new Patent Policy, current group participants need to re-join the group.
+
+* [w3c/media-wg#17 Move Media Playback Quality to HTML specification](https://github.com/w3c/media-wg/issues/17)
+
+> The MoU with WHATWG has been updated to allow transition to the HTML specification. Is someone willing to take the editor role?
+
+* [MSE v2 FPWD] - @wolenetz
+
+> What needs to be added to the MSE draft before we can go to FPWD? Previous discussion: https://www.w3.org/2021/06/08-mediawg-minutes.html#t04
+
+* [w3c/webcodecs#213 Should ImageDecoder IsTypeSupported be (a)synchronous?](https://github.com/w3c/webcodecs/issues/213) - @chcunningham
+
+* [w3c/webcodecs#239 Is exposing https://w3c.github.io/webcodecs/#enumdef-hardwareacceleration a good idea?](https://github.com/w3c/webcodecs/issues/239) - @youennf
 
 ### Media Working Group Teleconference - 2021-07-27
 
@@ -19,7 +34,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 | Paris (France) | Tuesday, July 27, 11:00 PM GMT+2 |
 | Tokyo (Japan) | Wednesday, July 28, 6:00 AM GMT+9 |
 | Corresponding UTC (GMT) | Tuesday, July 27, 9:00 PM UTC |
-
 
 ### Logistics
 
