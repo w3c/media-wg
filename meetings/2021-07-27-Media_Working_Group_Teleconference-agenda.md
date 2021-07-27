@@ -24,6 +24,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/webcodecs#239 Is exposing https://w3c.github.io/webcodecs/#enumdef-hardwareacceleration a good idea?](https://github.com/w3c/webcodecs/issues/239) - @youennf
 
+* [MediaSession Coordinator Explainer](https://github.com/jernoble/explainers/tree/main/MediaSessionCoordinator) - @jernoble
+
 ### Media Working Group Teleconference - 2021-07-27
 
 | Location | Date & Time |
