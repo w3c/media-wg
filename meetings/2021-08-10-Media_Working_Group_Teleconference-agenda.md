@@ -8,6 +8,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * MSE First Public Working Draft status - wolenetz
 
+> What set of features should be included in the Editors' Draft, to be ready to publish FPWD? - e.g, codec switching, MSE in Worker, play through unbuffered time ranges?
+
 ### Media Working Group Teleconference - 2021-08-10
 
 | Location | Date & Time |
