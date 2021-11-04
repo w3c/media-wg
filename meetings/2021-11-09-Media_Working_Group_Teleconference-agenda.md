@@ -6,6 +6,10 @@ If you would like to add an item to the agenda please open a pull request agains
 
 * [w3c/media-wg#34 Moving video.requestVideoFrameCallback spec to media WG?](https://github.com/w3c/media-wg/issues/34) - tguilbert-google
 
+* [w3c/autoplay#14 Draft for Autoplay Detection spec](https://github.com/w3c/autoplay/pull/14) - alastor0325
+
+  * Open questions on AutoPlay Policy Detection
+  * Move the spec to HTML?
 
 ### Media Working Group Teleconference - 2021-11-09
 
