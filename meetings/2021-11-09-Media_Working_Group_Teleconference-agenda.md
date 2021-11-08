@@ -11,6 +11,10 @@ If you would like to add an item to the agenda please open a pull request agains
   * Open questions on AutoPlay Policy Detection
   * Move the spec to HTML?
 
+* [W3C Process 2021](https://www.w3.org/2021/Process-20211102/)
+
+  * Move MSE and Web Codecs registries to the new Registry Track?
+
 ### Media Working Group Teleconference - 2021-11-09
 
 | Location | Date & Time |
