@@ -8,6 +8,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/autoplay#15 Alternate API design](https://github.com/w3c/autoplay/issues/15)
 
+* Upcoming CSS meeting 15 December will cover [w3c/csswg-drafts#5044 length units in video-* media features](https://github.com/w3c/csswg-drafts/issues/5044)
+
 ### Media Working Group Teleconference - 2021-12-14
 
 | Location | Date & Time |
