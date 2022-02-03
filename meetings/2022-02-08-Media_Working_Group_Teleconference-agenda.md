@@ -4,7 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* Agenda Items TBD
+•	Autoplay Policy Detection: Confirm API direction and next steps
 
 ### Media Working Group Teleconference - 2022-02-08
 
