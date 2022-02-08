@@ -4,7 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-•	Autoplay Policy Detection: Confirm API direction and next steps
+*	Autoplay Policy Detection: Confirm API direction and next steps
 * WebCodecs H.263 Registration
 * Media Capabilities and WebRTC
 * TPAC 2022 plans
