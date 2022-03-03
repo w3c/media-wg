@@ -4,7 +4,10 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [autoplay/26](https://github.com/w3c/autoplay/issues/26) Autoplay Policy Detection CfC closes, publish FPWD
+* [autoplay/26](https://github.com/w3c/autoplay/issues/26) Autoplay Policy Detection CfC closes, publish FPWD - @chrisn
+* [autoplay/23](https://github.com/w3c/autoplay/issues/23) Preventing sites from prompting users on Autoplay - @sushraja-msft
+* [autoplay/24](https://github.com/w3c/autoplay/issues/24) Privacy, discloing user settings is a fingerprinting vector - @sushraja-msft
+* [autoplay/25](https://github.com/w3c/autoplay/issues/25) The API restricts autoplay options to current status quo - @sushraja-msft
 * Other agenda items, TBD
 
 ### Media Working Group Teleconference - 2022-03-08
