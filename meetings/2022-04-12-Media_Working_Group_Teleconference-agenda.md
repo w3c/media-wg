@@ -4,7 +4,11 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* Agenda items TBC
+* https://github.com/w3c/media-capabilities/issues/192 Should width, height, etc be required or optional in VideoConfiguration?
+
+* https://github.com/w3c/media-capabilities/issues/185 Retrieving RTCRtpCodecCapability from MediaCapabilities when queried for webrtc
+
+* https://github.com/w3c/media-capabilities/pull/191 Add webrtc examples
 
 ### Media Working Group Teleconference - 2022-04-12
 
