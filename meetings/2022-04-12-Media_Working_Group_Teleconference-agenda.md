@@ -10,6 +10,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * https://github.com/w3c/media-capabilities/pull/191 Add webrtc examples
 
+* WebCodecs H.263 registration update
+
 ### Media Working Group Teleconference - 2022-04-12
 
 | Location | Date & Time |
