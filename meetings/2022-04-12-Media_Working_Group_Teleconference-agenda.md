@@ -8,6 +8,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * https://github.com/w3c/media-capabilities/issues/185 Retrieving RTCRtpCodecCapability from MediaCapabilities when queried for webrtc
 
+* https://github.com/w3c/media-source/pull/306 Refine srcObject's MediaSourceHandle behavior
+
 * WebCodecs H.263 registration update - @chrisn
 
 ### Media Working Group Teleconference - 2022-04-12
@@ -32,4 +34,3 @@ IRC: https://irc.w3.org/?channels=#mediawg
 If you are unable to login to view the call details please ask on IRC before the call.
 
 For assistance go to https://mit.webex.com/mit/mc  and on the left navigation bar, click "Support".
-             
