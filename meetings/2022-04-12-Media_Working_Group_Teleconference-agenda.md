@@ -8,9 +8,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * https://github.com/w3c/media-capabilities/issues/185 Retrieving RTCRtpCodecCapability from MediaCapabilities when queried for webrtc
 
-* https://github.com/w3c/media-capabilities/pull/191 Add webrtc examples
-
-* WebCodecs H.263 registration update
+* WebCodecs H.263 registration update - @chrisn
 
 ### Media Working Group Teleconference - 2022-04-12
 
