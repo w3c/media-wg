@@ -12,6 +12,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * WebCodecs H.263 registration update - @chrisn
 
+* Horizontal review status - @chrisn
+
 ### Media Working Group Teleconference - 2022-04-12
 
 | Location | Date & Time |
