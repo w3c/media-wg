@@ -5,12 +5,13 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
 * [w3c/media-source#306 MSE in Worker: Refine srcObject's MediaSourceHandle behavior](https://github.com/w3c/media-source/pull/306) - wolenetz
-
+* Specification horizontal review status
 * Media Session editors needed
-
-* WebRTC joint meeting planning
-
-* TPAC 2022 planning
+* Status of Media Capabilities WebRTC support (issues [#185](https://github.com/w3c/media-capabilities/issues/185) and [#192](https://github.com/w3c/media-capabilities/issues/192)
+* Planning
+  * Upcoming joint meeting with WebRTC on Media Session and WebRTC Capture Handle Actions (23 May)
+  * Timed Text WG issue [#503](https://github.com/w3c/webvtt/issues/503) - Joint meeting with Timed Text WG and OpenUI CG
+  * TPAC 2022
 
 ### Media Working Group Teleconference - 2022-05-10
 
