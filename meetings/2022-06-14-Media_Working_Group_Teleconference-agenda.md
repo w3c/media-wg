@@ -7,6 +7,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [w3c/media-source#306](https://github.com/w3c/media-source/pull/306) MSE in Worker: Refine srcObject's MediaSourceHandle behavior
 
 * Media Session spec editor changes
+  * Issue triage
 
 * Media Session and WebRTC Capture Handle Actions
   * [w3c/mediasession#274](https://github.com/w3c/mediasession/issues/274) Should we add slide presentation specific actions?
@@ -14,7 +15,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 * [w3c/media-wg#35](https://github.com/w3c/media-wg/issues/35) TPAC 2022 planning:
   * Agenda and joint meetings
 
-TODO: Add more agenda items
+TODO: Add other agenda items
 
 ### Media Working Group Teleconference - 2022-06-14
 
