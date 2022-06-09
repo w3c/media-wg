@@ -4,7 +4,17 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-TODO: Add agenda items
+* [w3c/media-source#306](https://github.com/w3c/media-source/pull/306) MSE in Worker: Refine srcObject's MediaSourceHandle behavior
+
+* Media Session spec editor changes
+
+* Media Session and WebRTC Capture Handle Actions
+  * [w3c/mediasession#274](https://github.com/w3c/mediasession/issues/274) Should we add slide presentation specific actions?
+
+* [w3c/media-wg#35](https://github.com/w3c/media-wg/issues/35) TPAC 2022 planning:
+  * Agenda and joint meetings
+
+TODO: Add more agenda items
 
 ### Media Working Group Teleconference - 2022-06-14
 
@@ -28,7 +38,3 @@ IRC: https://irc.w3.org/?channels=#mediawg
 If you are unable to login to view the call details please ask on IRC before the call.
 
 For assistance go to https://mit.webex.com/mit/mc  and on the left navigation bar, click "Support".
-
-
-
-              
