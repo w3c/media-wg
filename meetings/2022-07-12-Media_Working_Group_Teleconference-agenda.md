@@ -6,7 +6,9 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/media-wg#35](https://github.com/w3c/media-wg/issues/35) TPAC agenda brainstorming - @chrisn
 
-* Other items TBD
+* [w3c/mediasession#274](https://github.com/w3c/mediasession/issues/274) Media Session and Capture Handle Actions
+
+* [w3c/webcodecs#416](https://github.com/w3c/webcodecs/issues/416) WebCodecs H.263 registration next steps - @chrisn
 
 ### Media Working Group Teleconference - 2022-07-12
 
