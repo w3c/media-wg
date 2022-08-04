@@ -4,7 +4,9 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [media-wg/#35](https://github.com/w3c/media-wg/issues/35) TPAC agenda planning
+* [w3c/encrypted-media #499](https://github.com/w3c/encrypted-media/issues/499) Revisit the requirement to continuously run the "Monitor for CDM State Changes" algorithm - @xhwang-chromium
+
+* [w3c/media-wg #35](https://github.com/w3c/media-wg/issues/35) TPAC agenda planning
   * Media WG meeting (Friday 16 September)
   * WebRTC WG / Media WG joint meeting (Thursday 15 September)
   * Timed Text WG / Media WG joint meeting (Friday 16 September)
