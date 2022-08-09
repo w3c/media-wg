@@ -29,7 +29,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 Chairs: Jer Noble, Chris Needham
 
-Webex: https://lists.w3.org/Archives/Member/w3c-archive/2020Jan/0323.html
+Webex: TBC
 
 IRC: https://irc.w3.org/?channels=#mediawg
 
@@ -37,4 +37,3 @@ If you are unable to login to view the call details please ask on IRC before the
 
 For assistance go to https://mit.webex.com/mit/mc  and on the left navigation bar, click "Support".
 
-              
