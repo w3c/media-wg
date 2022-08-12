@@ -6,8 +6,11 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/media-wg #35](https://github.com/w3c/media-wg/issues/35) TPAC agenda planning. Input requested from all editors on agenda priorities - @chrisn
   * Media WG meeting (Friday 16 September)
+    * Review agenda items
   * WebRTC WG / Media WG joint meeting (Thursday 15 September)
+    * Review agenda items
   * Timed Text WG / Media WG joint meeting (Friday 16 September)
+    * Review agenda items
 
 * [w3c/media-source #175](https://github.com/w3c/media-source/issues/175) MSE-in-Workers brief update - @wolenetz
   * Specification landed (transferable handle, [SameObject] getter, srcObject attachment)
