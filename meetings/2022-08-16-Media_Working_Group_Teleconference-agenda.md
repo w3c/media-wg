@@ -12,11 +12,6 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
   * Timed Text WG / Media WG joint meeting (Friday 16 September)
     * Review agenda items
 
-* [w3c/media-source #175](https://github.com/w3c/media-source/issues/175) MSE-in-Workers brief update - @wolenetz
-  * Specification landed (transferable handle, [SameObject] getter, srcObject attachment)
-  * Chrome shipping it beginning in M105 Beta
-  * Interop? (Are other user-agents working on this?)
-
 ### Media Working Group Teleconference - 2022-08-16
 
 | Location | Date & Time |
