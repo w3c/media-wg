@@ -20,12 +20,12 @@ MSE Interoperability/implementation conformance issues:
 
 | Location | Date & Time |
 | -------- | ----------- |
-| San Francisco (U.S.A.) | Tuesday, November 8 at 1:00 PM PST |
-| Boston (U.S.A.) | Tuesday, November 8 at 4:00 PM EST |
-| London (United Kingdom) | Tuesday, November 8 at 9:00 PM GMT |
-| Paris (France) | Tuesday, November 8 at 10:00 PM GMT+1 |
-| Tokyo (Japan) | Wednesday, November 9 at 6:00 AM GMT+9 |
-| Corresponding UTC (GMT) | Tuesday, November 8 at 9:00 PM UTC |
+| San Francisco (U.S.A.) | Tuesday, November 8 at 2:00 PM PST |
+| Boston (U.S.A.) | Tuesday, November 8 at 5:00 PM EST |
+| London (United Kingdom) | Tuesday, November 8 at 10:00 PM GMT |
+| Paris (France) | Tuesday, November 8 at 11:00 PM GMT+1 |
+| Tokyo (Japan) | Wednesday, November 9 at 7:00 AM GMT+9 |
+| Corresponding UTC (GMT) | Tuesday, November 8 at 10:00 PM UTC |
 
 ### Logistics
 
