@@ -16,6 +16,10 @@ MSE Interoperability/implementation conformance issues:
 
 * Reflections on MSE in Worker and WG review process, see [w3ctag/design-principles#400](https://github.com/w3ctag/design-principles/issues/400)
 
+Media Capabilties
+
+* Call for new editors 
+
 ### Media Working Group Teleconference - 2022-11-08
 
 | Location | Date & Time |
