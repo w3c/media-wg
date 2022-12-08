@@ -4,7 +4,13 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [ITU-T SG16 Liaison statement on WebCodecs](https://github.com/w3c/media-wg/blob/main/liaisons/2022-10-28-itu-t-sg16.md)
+* [ITU-T SG16 Liaison statement on WebCodecs](https://github.com/w3c/media-wg/blob/main/liaisons/2022-10-28-itu-t-sg16.md) - @chrisn
+
+* WebKit update on Audio focus/audio session API - @youennf
+
+* [w3c/webcodecs#619](https://github.com/w3c/webcodecs/issues/619) Consistent SVC metadata between WebCodecs and Encoded Transform API (see [slides](https://docs.google.com/presentation/d/1lFAUSvApbBYfBNJH_xcRW0YjD0aF5T1ZqjyyDJMesJw/edit#slide=id.g1a4ac56601a_3_0)) - @aboba
+
+* [Media pipeline architecture](https://github.com/w3c/media-pipeline-arch/) Media WG input and WebRTC collaboration planning - @chrisn
 
 * Other items TBD
 
