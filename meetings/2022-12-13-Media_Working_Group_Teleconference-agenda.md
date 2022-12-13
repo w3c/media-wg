@@ -6,7 +6,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [ITU-T SG16 Liaison statement on WebCodecs](https://github.com/w3c/media-wg/blob/main/liaisons/2022-10-28-itu-t-sg16.md) - @chrisn
 
-* WebKit update on Audio focus/audio session API - @youennf
+* WebKit update on Audio focus/audio session API (see [slides](https://docs.google.com/presentation/d/1jICP-gAT5FydEEi_fUR0kXFHIYcbxlCo2J54rIxBCeg/edit)) - @youennf
 
 * [w3c/webcodecs#619](https://github.com/w3c/webcodecs/issues/619) Consistent SVC metadata between WebCodecs and Encoded Transform API (see [slides](https://docs.google.com/presentation/d/1lFAUSvApbBYfBNJH_xcRW0YjD0aF5T1ZqjyyDJMesJw/edit#slide=id.g1a4ac56601a_3_0)) - @aboba
 
