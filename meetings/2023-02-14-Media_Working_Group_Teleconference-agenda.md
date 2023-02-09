@@ -8,7 +8,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
   * Rechartering timeline
 
-  * [w3c/media-wg#22] Review group milestones (timeline estimates for our specification deliverables)
+  * [w3c/media-wg#22](https://github.com/w3c/media-wg/issues/22) Review group milestones (timeline estimates for our specification deliverables)
 
   * Migrating Media Playback Quality to the HTML spec
 
