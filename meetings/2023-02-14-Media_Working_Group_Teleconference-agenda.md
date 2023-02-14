@@ -18,6 +18,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
   * [w3c/audio-focus#9](https://github.com/w3c/audio-focus/issues/9) Should we change the Audio Focus repo or spec name?
 
+  * [w3c/webcodecs#270](https://github.com/w3c/webcodecs/issues/270#issuecomment-1411324497) Should quantizer modes be per-codec or per-config?
+
   * Any other charter changes needed?
 
 
