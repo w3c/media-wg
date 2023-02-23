@@ -20,6 +20,11 @@ MSE v2 features and v2 bugfixes:
 - https://github.com/w3c/media-source/milestone/6
 - https://github.com/w3c/media-source/milestone/7
 
+Webcodecs:
+
+- Where to put per-frame QP in VideoEncoderEncodeOptions
+  https://github.com/w3c/webcodecs/issues/270
+
 
 
 ### Media Working Group Teleconference - 2023-02-28
