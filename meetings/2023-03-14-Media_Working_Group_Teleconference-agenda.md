@@ -6,7 +6,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 - MSE issue review and timescale estimates the Media WG charter for MSE v2
 
-Here are the notes from the MSE discussions at TPAC and our November meeting: 
+Here are the notes from the MSE discussions at TPAC and our November meeting:
 
 - https://www.w3.org/2022/09/16-mediawg-minutes.html#t06
 - https://www.w3.org/2022/11/08-mediawg-minutes.html#t02
@@ -20,23 +20,16 @@ MSE v2 features and v2 bugfixes:
 - https://github.com/w3c/media-source/milestone/6
 - https://github.com/w3c/media-source/milestone/7
 
-Webcodecs:
-
-- Where to put per-frame QP in VideoEncoderEncodeOptions
-  https://github.com/w3c/webcodecs/issues/270
-
-
-
-### Media Working Group Teleconference - 2023-02-28
+### Media Working Group Teleconference - 2023-03-14
 
 | Location | Date & Time |
 | -------- | ----------- |
-| San Francisco (U.S.A.) | Tuesday, February 28 at 1:00 PM PST |
-| Boston (U.S.A.) | Tuesday, February 28 at 4:00 PM EST |
-| London (United Kingdom) | Tuesday, February 28 at 9:00 PM GMT |
-| Paris (France) | Tuesday, February 28 at 10:00 PM GMT+1 |
-| Tokyo (Japan) | Wednesday, March 1 at 6:00 AM GMT+9 |
-| Corresponding UTC (GMT) | Tuesday, 28 February at 21:00 UTC |
+| San Francisco (U.S.A.) | Tuesday, March 14 at 1:00 PM PST |
+| Boston (U.S.A.) | Tuesday, March 14 at 4:00 PM EST |
+| London (United Kingdom) | Tuesday, March 14 at 9:00 PM GMT |
+| Paris (France) | Tuesday, March 14 at 10:00 PM GMT+1 |
+| Tokyo (Japan) | Wednesday, March 15 at 6:00 AM GMT+9 |
+| Corresponding UTC (GMT) | Tuesday, March 14 at 21:00 UTC |
 
 ### Logistics
 
