@@ -6,10 +6,14 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 Webcodecs:
 
-- [w3c/webcodecs#270](https://github.com/w3c/webcodecs/issues/270) Where to put per-frame QP in VideoEncoderEncodeOptions. Two proposals:
+- [w3c/webcodecs#270](https://github.com/w3c/webcodecs/issues/270) Where to put per-frame QP in VideoEncoderEncodeOption - @Djuffin
+  Two proposals:
 
   - [w3c/webcodecs#633](https://github.com/w3c/webcodecs/pull/633) Add codec specific quantizer fields to VideoEncoderEncodeOptions
   - [w3c/webcodecs#642](https://github.com/w3c/webcodecs/pull/642) Add a generic quantizer field to VideoEncoderEncodeOptions
+
+- [w3c/webcodecs#645](https://github.com/w3c/webcodecs/pull/645) Add EventHandler for Encoder/Decoder power efficiency changes - @aboba
+
 
 ### Media Working Group Teleconference - 2023-03-07
 
