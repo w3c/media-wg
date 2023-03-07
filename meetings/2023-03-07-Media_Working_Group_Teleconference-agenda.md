@@ -19,12 +19,12 @@ Webcodecs:
 
 | Location | Date & Time |
 | -------- | ----------- |
-| San Francisco (U.S.A.) | Tuesday, March 7 at 1:00 PM PST |
-| Boston (U.S.A.) | Tuesday, March 7 at 4:00 PM EST |
-| London (United Kingdom) | Tuesday, March 7 at 9:00 PM GMT |
-| Paris (France) | Tuesday, March 7 at 10:00 PM GMT+1 |
-| Tokyo (Japan) | Wednesday, March 8 at 6:00 AM GMT+9 |
-| Corresponding UTC (GMT) | Tuesday, March 7 at 21:00 UTC |
+| San Francisco (U.S.A.) | Tuesday, March 7 at 2:00 PM PST |
+| Boston (U.S.A.)	| Tuesday, March 7 at 5:00 PM EST |
+| London (United Kingdom)	| Tuesday, March 7 at 10:00 PM GMT |
+| Paris (France)	| Tuesday, March 7 at 11:00 PM GMT+1 |
+| Tokyo (Japan)	| Wednesday, March 8 at 7:00 AM GMT+9 |
+| Corresponding UTC (GMT)	| Tuesday, March 7 at 22:00 UTC |
 
 ### Logistics
 
