@@ -12,6 +12,7 @@ Webcodecs:
   - [w3c/webcodecs#633](https://github.com/w3c/webcodecs/pull/633) Add codec specific quantizer fields to VideoEncoderEncodeOptions
   - [w3c/webcodecs#642](https://github.com/w3c/webcodecs/pull/642) Add a generic quantizer field to VideoEncoderEncodeOptions
 
+- [w3c/webcodecs#604](https://github.com/w3c/webcodecs/issues/604) Information on encoder/decoder performance?
 - [w3c/webcodecs#645](https://github.com/w3c/webcodecs/pull/645) Add EventHandler for Encoder/Decoder power efficiency changes - @aboba
 
 
