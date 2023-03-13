@@ -6,19 +6,26 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 - MSE issue review and timescale estimates the Media WG charter for MSE v2
 
-Here are the notes from the MSE discussions at TPAC and our November meeting:
+  Here are the notes from the MSE discussions at TPAC and our November meeting:
 
-- https://www.w3.org/2022/09/16-mediawg-minutes.html#t06
-- https://www.w3.org/2022/11/08-mediawg-minutes.html#t02
+  - https://www.w3.org/2022/09/16-mediawg-minutes.html#t06
+  - https://www.w3.org/2022/11/08-mediawg-minutes.html#t02
 
-Issues tagged TPAC-2022-discussion:
+  Issues tagged TPAC-2022-discussion:
 
-- https://github.com/w3c/media-source/labels/TPAC-2022-discussion
+  - https://github.com/w3c/media-source/labels/TPAC-2022-discussion
 
-MSE v2 features and v2 bugfixes:
+  MSE v2 features and v2 bugfixes:
 
-- https://github.com/w3c/media-source/milestone/6
-- https://github.com/w3c/media-source/milestone/7
+  - https://github.com/w3c/media-source/milestone/6
+  - https://github.com/w3c/media-source/milestone/7
+
+- Media Session API
+
+  - https://github.com/w3c/mediasession/issues Working Group feedback on feature prioritisation - @youennf
+    - [w3c/media-session#194](https://github.com/w3c/mediasession/issues/194) Allow metadata and actions to be routed to different frames?
+    - [w3c/media-session#221](https://github.com/w3c/mediasession/issues/221) Integrate Media Session with Feature Policy
+    - [w3c/media-session#228](https://github.com/w3c/mediasession/issues/228) Add a way of detecting which actions a UA supports
 
 ### Media Working Group Teleconference - 2023-03-14
 
