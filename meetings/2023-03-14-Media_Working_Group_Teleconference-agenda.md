@@ -31,12 +31,12 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 | Location | Date & Time |
 | -------- | ----------- |
-| San Francisco (U.S.A.) | Tuesday, March 14 at 1:00 PM PST |
-| Boston (U.S.A.) | Tuesday, March 14 at 4:00 PM EST |
+| San Francisco (U.S.A.) | Tuesday, March 14 at 2:00 PM PST |
+| Boston (U.S.A.) | Tuesday, March 14 at 5:00 PM EST |
 | London (United Kingdom) | Tuesday, March 14 at 9:00 PM GMT |
 | Paris (France) | Tuesday, March 14 at 10:00 PM GMT+1 |
 | Tokyo (Japan) | Wednesday, March 15 at 6:00 AM GMT+9 |
-| Corresponding UTC (GMT) | Tuesday, March 14 at 21:00 UTC |
+| Corresponding UTC (GMT) | Tuesday, March 14 at 9:00 PM UTC |
 
 ### Logistics
 
