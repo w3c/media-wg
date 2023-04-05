@@ -6,7 +6,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/encrypted-media#228 Clarify EME persistent data behavior related to Clear-Site-Data](https://github.com/w3c/encrypted-media/issues/503) - @xhwang-chromium
 
-* [w3c/media-wg#40 TPAC 2023 joint meetings] - @chrisn
+* [w3c/media-wg#40 TPAC 2023 joint meetings](https://github.com/w3c/media-wg/issues/40) - @chrisn
 
 ### Media Working Group Teleconference - 2023-04-11
 
