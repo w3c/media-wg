@@ -4,7 +4,9 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda or volunteer to scribe please open a pull request against this agenda.
 
-* [w3c/web-codecs#656 Allow decoder to ignore corrupted frames](https://github.com/w3c/webcodecs/issues/656) - @aboba, @dalecurtis
+* [w3c/webcodecs#656 Allow decoder to ignore corrupted frames](https://github.com/w3c/webcodecs/issues/656) - @aboba, @dalecurtis
+
+*	[w3c/webcodecs#652 Allow configuration of AV1 screen content coding tools](https://github.com/w3c/webcodecs/pull/652) - @aboba
 
 * [w3c/webcodecs#619 Consistent SVC metadata between WebCodecs and Encoded Transform API](https://github.com/w3c/webcodecs/issues/619) and [w3c/webcodecs#654](https://github.com/w3c/webcodecs/pull/654) - @aboba
 
