@@ -6,6 +6,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/web-codecs#656 Allow decoder to ignore corrupted frames](https://github.com/w3c/webcodecs/issues/656) - @aboba, @dalecurtis
 
+* [w3c/webcodecs#619 Consistent SVC metadata between WebCodecs and Encoded Transform API](https://github.com/w3c/webcodecs/issues/619) and [w3c/webcodecs#654](https://github.com/w3c/webcodecs/pull/654) - @aboba
+
 * [w3c/media-wg#40 TPAC 2023 joint meetings](https://github.com/w3c/media-wg/issues/40) - @chrisn
 
 ### Media Working Group Teleconference - 2023-04-11
