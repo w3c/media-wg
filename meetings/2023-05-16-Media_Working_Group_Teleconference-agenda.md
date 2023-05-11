@@ -4,7 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda please contact the chairs or open a pull request against this agenda.
 
-* [w3c/media-session#294 EnterPictureInPicture MediaSessionAction](https://github.com/w3c/mediasession/issues/294) / [w3c/media-session#295](https://github.com/w3c/mediasession/pull/295 PR) - @steimelchrome
+* [w3c/media-session#294](https://github.com/w3c/mediasession/issues/294) / [w3c/media-session#295 EnterPictureInPicture MediaSessionAction](https://github.com/w3c/mediasession/pull/295) - @steimelchrome
 
 * [w3c/media-wg#40 TPAC 2023 plans](https://github.com/w3c/media-wg/issues/40) - @chrisn
 
