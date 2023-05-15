@@ -25,10 +25,8 @@ Other topics TBC
 
 Chairs: Jer Noble, Chris Needham
 
-Webex: https://lists.w3.org/Archives/Member/w3c-archive/2020Jan/0323.html
+Zoom link: see [calendar entry](https://www.w3.org/events/meetings/15bd14ec-4a2a-42b0-a2cd-3ce03468e1d6)
 
 IRC: https://irc.w3.org/?channels=#mediawg
 
 If you are unable to login to view the call details please ask on IRC before the call.
-
-For assistance go to https://mit.webex.com/mit/mc  and on the left navigation bar, click "Support".
