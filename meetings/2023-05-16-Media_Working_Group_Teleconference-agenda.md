@@ -6,6 +6,10 @@ If you would like to add an item to the agenda please contact the chairs or open
 
 * [w3c/media-session#294](https://github.com/w3c/mediasession/issues/294) / [w3c/media-session#295 EnterPictureInPicture MediaSessionAction](https://github.com/w3c/mediasession/pull/295) - @steimelchrome
 
+* [w3c/encrypted-media#251 Specify mixed encrypted/unencrypted content](https://github.com/w3c/encrypted-media/issues/251) - @xhwang-chromium
+
+* [w3c/webcodecs#478 Coding Tool configuration (Content hints in VideoEncoderConfig)](https://github.com/w3c/webcodecs/issues/478) - @Djuffin
+
 * [w3c/webcodecs#92 API for conversion between pixel formats](https://github.com/w3c/webcodecs/issues/92) - @Djuffin
 
 * [w3c/webcodecs#669 Custom error types](https://github.com/w3c/webcodecs/issues/669) - @Djuffin
