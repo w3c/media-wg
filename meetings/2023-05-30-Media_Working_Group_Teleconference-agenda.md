@@ -6,7 +6,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/webcodecs#478 Coding Tool configuration (Content hints in VideoEncoderConfig)](https://github.com/w3c/webcodecs/issues/478) - @aboba
 
-* [w3c/webcodecs#6104 Detach codec inputs (where feasible)](https://github.com/w3c/webcodecs/issues/669) - @Djuffin
+* [w3c/webcodecs#104 Detach codec inputs (where feasible)](https://github.com/w3c/webcodecs/issues/104) - @Djuffin
 
 * [w3c/webcodecs#669 Custom error types](https://github.com/w3c/webcodecs/issues/669) - @Djuffin
 
