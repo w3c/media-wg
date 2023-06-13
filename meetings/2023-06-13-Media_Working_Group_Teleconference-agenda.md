@@ -6,6 +6,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/webcodecs#478 Coding Tool configuration (Content hints in VideoEncoderConfig)](https://github.com/w3c/webcodecs/issues/478) - @aboba
 
+* [w3c/media-source#320 Proposal: ManagedMediaSource API](https://github.com/w3c/media-source/issues/320)
+
 Changes or additions to the agenda are welcome.
 
 ### Media Working Group Teleconference - 2023-06-13
