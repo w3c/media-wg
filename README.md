@@ -6,11 +6,21 @@ This repository hosts the [home page of the Media Working Group](https://www.w3.
 
 Specifications published by the Media Working Group are developed in separate GitHub repositories:
 
+* [Audio Session](https://github.com/w3c/audio-session)
 * [Autoplay Policy Detection](https://github.com/w3c/autoplay/)
 * [Encrypted Media Extensions (EME)](https://github.com/w3c/encrypted-media/)
+  * [Encrypted Media Extensions Initialization Data Format Registry](https://github.com/w3c/encrypted-media/tree/main/format-registry/initdata)
+  * [Encrypted Media Extensions Stream Format Registry](https://github.com/w3c/encrypted-media/tree/main/format-registry/stream)
 * [Media Capabilities](https://github.com/w3c/media-capabilities/)
 * [Media Playback Quality](https://github.com/w3c/media-playback-quality/)
 * [Media Session](https://github.com/w3c/mediasession/)
 * [Media Source Extensions™ (MSE)](https://github.com/w3c/media-source/)
+  * [Media Source Extensions Byte Stream Format Registry](https://github.com/w3c/mse-byte-stream-format-registry)
+  * [WebM Byte Stream Format](https://github.com/w3c/mse-byte-stream-format-webm)
+  * [ISO BMFF Byte Stream Format](https://github.com/w3c/mse-byte-stream-format-isobmff)
+  * [MPEG-2 Transport Streams Byte Stream Format](https://github.com/w3c/mse-byte-stream-format-mp2t)
+  * [MPEG Audio Byte Stream Format](https://github.com/w3c/mse-byte-stream-format-mpeg-audio)
 * [Picture-in-picture](https://github.com/w3c/picture-in-picture/)
 * [WebCodecs](https://github.com/w3c/webcodecs/)
+  * [WebCodecs Codec Registry](https://github.com/w3c/webcodecs/)
+  * [WebCodecs VideoFrame Metadata Registry](https://github.com/w3c/webcodecs/)
