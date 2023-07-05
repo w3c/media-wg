@@ -24,3 +24,5 @@ Specifications published by the Media Working Group are developed in separate Gi
 * [WebCodecs](https://github.com/w3c/webcodecs/) - ([WPT](https://wpt.fyi/results/webcodecs))
   * [WebCodecs Codec Registry](https://github.com/w3c/webcodecs/)
   * [WebCodecs VideoFrame Metadata Registry](https://github.com/w3c/webcodecs/)
+
+See also [Horizontal Review Status](https://docs.google.com/presentation/d/15KyxeFKx1V5VWbYLK2yELxQQbusfjgVXsADWZHOvIF8/edit)
