@@ -6,7 +6,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * Welcome Marcos as new co-chair
 
-* TPAC agenda planning
+* [w3c/media-wg#95 TPAC agenda planning](https://github.com/w3c/media-and-entertainment/issues/95) - chrisn
 
 * [w3c/webcodecs#681 Should VideoEncoderConfig cloning remove parameters that are not useful for a given codec?](https://github.com/w3c/webcodecs/issues/681) - youennf
 
