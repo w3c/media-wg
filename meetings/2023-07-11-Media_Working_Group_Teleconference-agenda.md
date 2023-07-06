@@ -8,6 +8,10 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * [w3c/media-wg#95 TPAC agenda planning](https://github.com/w3c/media-and-entertainment/issues/95) - chrisn
 
+  * Media WG agenda
+  * Web RTC / Media WG joint meeting agenda
+  * Other media related groups
+
 * [w3c/webcodecs#681 Should VideoEncoderConfig cloning remove parameters that are not useful for a given codec?](https://github.com/w3c/webcodecs/issues/681) - youennf
 
 ### Media Working Group Teleconference - 2023-07-11
