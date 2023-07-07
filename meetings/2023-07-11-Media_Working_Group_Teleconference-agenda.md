@@ -6,7 +6,7 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
 
 * Welcome Marcos as new co-chair
 
-* [w3c/media-wg#95 TPAC agenda planning](https://github.com/w3c/media-and-entertainment/issues/95) - chrisn
+* [w3c/media-wg#95 TPAC agenda planning](https://github.com/w3c/media-wg/issues/95) - chrisn
 
   * Media WG agenda
   * Web RTC / Media WG joint meeting agenda
