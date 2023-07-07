@@ -12,6 +12,8 @@ If you would like to add an item to the agenda or volunteer to scribe please ope
   * Web RTC / Media WG joint meeting agenda
   * Other media related groups
 
+* [w3c/media-source#320 Managed MediaSource API] - marcoscaceres
+
 * [w3c/webcodecs#681 Should VideoEncoderConfig cloning remove parameters that are not useful for a given codec?](https://github.com/w3c/webcodecs/issues/681) - youennf
 
 ### Media Working Group Teleconference - 2023-07-11
