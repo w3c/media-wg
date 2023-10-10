@@ -14,6 +14,8 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/mediasession#237 The freezing in the artwork getter is broken](https://github.com/w3c/mediasession/issues/237) - @marcoscaceres
   * [w3c/mediasession#243 Update type of MediaMetadata's artwork](https://github.com/w3c/mediasession/issues/243)
+ 
+* [w3c/encrypted-media#513 Allow getStatusForPolicy() to reject the promise with NotSupportedError](https://github.com/w3c/encrypted-media/issues/513) - @xhwang
 
 
 ### Media Working Group Teleconference - 2023-10-10
