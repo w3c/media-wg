@@ -4,7 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-* [w3c/encrypted-media#515 Add a HDCP version registry?](https://github.com/w3c/encrypted-media/pull/515) - @chrisn
+* [w3c/encrypted-media#516 Add draft HDCP version registry](https://github.com/w3c/encrypted-media/pull/516) - @chrisn
 
 * [w3c/media-source#329 Add Managed Media Source Extensions API](https://github.com/w3c/media-source/pull/329) - @jyavenard @marcoscaceres
 
