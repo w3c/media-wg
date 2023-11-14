@@ -12,6 +12,7 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/webcodecs#558 Opus Packet Loss Concealment](https://github.com/w3c/webcodecs/issues/558) - @aboba
 
+* [w3c/webcodecs#744 isConfigSupported: definition of "invalid"](https://github.com/w3c/webcodecs/issues/744) - @aboba
 
 ### Media Working Group Teleconference - 2023-11-14
 
