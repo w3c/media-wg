@@ -6,7 +6,7 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/encrypted-media#515 Add a HDCP version registry?](https://github.com/w3c/encrypted-media/pull/515) - @chrisn
 
-* [w3c/media-source#320 Proposal: ManagedMediaSource API](https://github.com/w3c/media-source/issues/320) - @jyavenard @marcoscaceres
+* [w3c/media-source#329 Add Managed Media Source Extensions API](https://github.com/w3c/media-source/pull/329) - @jyavenard @marcoscaceres
 
 * [w3c/media-capabilities#208 Questions on Scalability Mode and Media Capabilities](https://github.com/w3c/media-capabilities/issues/208) - @aboba
 
