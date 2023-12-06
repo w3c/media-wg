@@ -6,7 +6,12 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/media-capabilities#209 PING: Align exposing scalabilityMode with the WebRTC "hardware capabilities" check](https://github.com/w3c/media-capabilities/issues/209) - @aboba
 
-* [w3c/media-source#320 Proposal: ManagedMediaSource API](https://github.com/w3c/media-source/issues/320) - @jyavenard
+* [w3c/media-capabilities#203 Browser interop issues](https://github.com/w3c/media-capabilities/issues/203) - @aboba
+
+* Media Capabilities prioritisation - @chrisn
+  *  There's a number of open issues (some from 2021 and earler). How should we prioritise, compared to other specs in the WG? Example issue [#102](https://github.com/w3c/media-capabilities/issues/102) on proposed transition API.
+
+* [w3c/media-source#320 Proposal: ManagedMediaSource API](https://github.com/w3c/media-source/issues/320) - @marcoscaceres
 
 * [w3c/webcodecs#558 Opus Packet Loss Concealment](https://github.com/w3c/webcodecs/issues/558) - @aboba
 
