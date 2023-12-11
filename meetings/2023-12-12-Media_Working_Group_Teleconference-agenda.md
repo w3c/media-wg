@@ -4,6 +4,8 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
+* [w3c/mediasession#273 Chapter information in MediaMetadata](https://github.com/w3c/mediasession/issues/273) - @steimelchrome
+
 * [w3c/media-capabilities#209 PING: Align exposing scalabilityMode with the WebRTC "hardware capabilities" check](https://github.com/w3c/media-capabilities/issues/209) - @aboba
 
 * [w3c/media-capabilities#203 Browser interop issues](https://github.com/w3c/media-capabilities/issues/203) - @aboba
