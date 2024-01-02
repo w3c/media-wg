@@ -19,6 +19,8 @@ If you would like to add an item to the agenda, please open a pull request again
 * [w3c/media-capabilities#157 text tracks not supported](https://github.com/w3c/media-capabilities/issues/157) - mikedo
 
 * [w3c/media-capabilities#202 What is the interaction of media capabilities with WebCodecs](https://github.com/w3c/media-capabilities/issues/202) - youennf
+  
+* [w3c/mediasession#307 What is the relationship between toggle microphone/camera actions and MediaStreamTrack mute/unmute events?](https://github.com/w3c/mediasession/issues/307) - jan-ivar
 
 ### Logistics
 
