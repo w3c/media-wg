@@ -4,7 +4,27 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-* Agenda items to follow
+- Media Session
+  - [w3c/mediasession#312 Make setMicrophoneActive and setCameraActive return promises](https://github.com/w3c/mediasession/pull/312) 
+  - [w3c/mediasession#317 Support multiple devices to support Video Conferencing use cases](https://github.com/w3c/mediasession/issues/317)
+  - [w3c/mediasession#318 Should toggle capture actions should expose the new capture state?](https://github.com/w3c/mediasession/issues/318)
+
+- Media Source Extensions
+  - New editors needed for MSE Byte Stream Format Registry and WebM Byte Stream Format
+  - [w3c/media-source#320 Managed Media Source](https://github.com/w3c/media-source/issues/320) Status of WPT tests?
+
+- Media Capabilities
+  - Editors needed
+  - [w3c/media-capabilities#213 Media Capabilities and HDR Dynamic Metadata](https://github.com/w3c/media-capabilities/issues/213)
+
+- Encrypted Media Extensions
+  - [w3c/encrypted-media#516 Add draft HDCP version registry](https://github.com/w3c/encrypted-media/pull/516)
+
+- [W3C Breakouts Day (12 March)](https://www.w3.org/2024/03/breakouts-day-2024/)
+  - Possible media related topics?
+
+- Next meeting scheduling
+  - Our scheduled meeting (12 March at 22:00 UTC) overlaps Breakouts Day
 
 ### Media Working Group Teleconference - 2024-02-13
 
