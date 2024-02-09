@@ -19,6 +19,7 @@ If you would like to add an item to the agenda, please open a pull request again
 
 - Encrypted Media Extensions
   - [w3c/encrypted-media#516 Add draft HDCP version registry](https://github.com/w3c/encrypted-media/pull/516)
+  - [w3c/encrypted-media#522 Formal Analysis of EME](https://github.com/w3c/encrypted-media/issues/522)
 
 - [W3C Breakouts Day (12 March)](https://www.w3.org/2024/03/breakouts-day-2024/)
   - Possible media related topics?
