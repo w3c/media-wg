@@ -15,6 +15,9 @@ If you would like to add an item to the agenda, please open a pull request again
 
 - Media Capabilities
   - Editors needed
+  - [w3c/media-capabilities#176 General approach to capability negotiation](https://github.com/w3c/media-capabilities/issues/176)
+    - [w3c/media-capabilities#217 Add comments to privacy section](https://github.com/w3c/media-capabilities/pull/217)
+    - [w3c/media-capabilities#212 RTC capabillity negotiation](https://github.com/w3c/media-capabilities/pull/212)
   - [w3c/media-capabilities#213 Media Capabilities and HDR Dynamic Metadata](https://github.com/w3c/media-capabilities/issues/213)
 
 - Encrypted Media Extensions
@@ -47,4 +50,3 @@ Zoom: https://lists.w3.org/Archives/Member/w3c-archive/2023May/0295.html
 IRC: https://irc.w3.org/?channels=#mediawg
 
 If you are unable to login to view the call details please ask on IRC before the call.
-
