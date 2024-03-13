@@ -4,7 +4,9 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-* Agenda items TBC
+* Spatial media - @jernoble
+* Moving MSE and EME registries to the W3C Registry Track
+* EME: Spec updates to reference the HDCP version registry
 
 ### Media Working Group Teleconference - 2024-03-19
 
