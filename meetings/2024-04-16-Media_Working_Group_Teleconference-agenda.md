@@ -4,7 +4,9 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-* Agenda items TBC
+* [w3c/webcodecs#601 Expose in VideoFrameMetadata some fields from VideoFrameCallbackMetadata](https://github.com/w3c/webcodecs/issues/601) - @Djuffin
+
+* Other agenda items TBC
 
 ### Media Working Group Teleconference - 2024-04-16
 
