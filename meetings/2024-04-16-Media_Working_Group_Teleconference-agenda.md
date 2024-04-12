@@ -6,6 +6,8 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/webcodecs#601 Expose in VideoFrameMetadata some fields from VideoFrameCallbackMetadata](https://github.com/w3c/webcodecs/issues/601) - @Djuffin
 
+* [whatwg/html#10208 Proposal: Pause iframe media when not rendered](https://github.com/whatwg/html/issues/10208) - @gabrielsanbrito
+
 * Other agenda items TBC
 
 ### Media Working Group Teleconference - 2024-04-16
