@@ -8,7 +8,7 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [whatwg/html#10208 Proposal: Pause iframe media when not rendered](https://github.com/whatwg/html/issues/10208) - @gabrielsanbrito
 
-* Other agenda items TBC
+* EME layering [whatwg/html#6242](https://github.com/whatwg/html/pull/6242), [w3c/encrypted-media#511](https://github.com/w3c/encrypted-media/issues/511), [w3c/media-capabilities#105](https://github.com/w3c/media-capabilities/pull/105) - @chrisn
 
 ### Media Working Group Teleconference - 2024-04-16
 
