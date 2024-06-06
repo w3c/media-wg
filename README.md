@@ -11,6 +11,7 @@ Specifications published by the Media Working Group are developed in separate Gi
 * [Encrypted Media Extensions (EME)](https://github.com/w3c/encrypted-media/) - ([WPT](https://wpt.fyi/results/encrypted-media))
   * [Encrypted Media Extensions Initialization Data Format Registry](https://github.com/w3c/encrypted-media/tree/main/format-registry/initdata)
   * [Encrypted Media Extensions Stream Format Registry](https://github.com/w3c/encrypted-media/tree/main/format-registry/stream)
+  * [Encrypted Media Extensions HDCP Version Registry](https://github.com/w3c/encrypted-media/)
 * [Media Capabilities](https://github.com/w3c/media-capabilities/) - ([WPT](https://wpt.fyi/results/media-capabilities))
 * [Media Playback Quality](https://github.com/w3c/media-playback-quality/) - ([WPT](https://wpt.fyi/results/media-playback-quality))
 * [Media Session](https://github.com/w3c/mediasession/) - ([WPT](https://wpt.fyi/results/mediasession))
