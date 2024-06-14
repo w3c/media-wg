@@ -4,6 +4,14 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
+* [w3c/encrypted-media#521 Clarity regarding Robustness string](https://github.com/w3c/encrypted-media/issues/521)
+
+* [w3c/encrypted-media#545 Notes contain normative requirements](https://github.com/w3c/encrypted-media/issues/545)
+
+* [w3c/webcodecs#800 Add Background Segmentation metadata entry to WebCodecs VideoFrame Metadata Registry](https://github.com/w3c/webcodecs/issues/800)
+
+* [TPAC 2024 Meeting Schedule](https://www.w3.org/2024/05/tpac2024-schedule-20240523.html)
+
 ### Media Working Group Teleconference - 2024-06-18
 
 | Location | Date & Time |
