@@ -4,7 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-* [w3c/media-wg#47 TPAC 2024 Preparation](https://github.com/w3c/media-wg/issues/47)
+Meeting cancelled.
 
 ### Media Working Group Teleconference - 2024-08-13
 
