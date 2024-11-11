@@ -7,6 +7,8 @@ If you would like to add an item to the agenda, please open a pull request again
 * [w3c/webcodecs#839 Camera Effect Status: API](https://github.com/w3c/webcodecs/issues/839) - @brychanrobot, @markafoltz
 > The proposal enables websites to detect which OS-level effects have been applied to a given video frame by reading the appropriate field on `VideoFrameMetadata`. It could have a number of applications, but we expect that it would primarily be used help prevent conflicts between operating system and web application camera effects.
 
+* [w3c/media-capabilities#222 Fixup MIME usage](https://github.com/w3c/media-capabilities/pull/222) - @chrisn, @marcoscaceres
+
 ### Media Working Group Teleconference - 2024-11-12
 
 | Location | Date & Time |
