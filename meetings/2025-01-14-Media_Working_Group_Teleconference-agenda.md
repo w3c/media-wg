@@ -2,7 +2,10 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2025-01-14-Media_Working_Group_Teleconference-agenda.md).
 
-Agenda TBD. If you would like to add an item to the agenda, please open a pull request against this agenda.
+* [w3c/media-session#350](https://github.com/w3c/mediasession/pull/350) Introduce a generic skip action as a replacement to skipad
+* Tracks on SourceBuffer with MSE in a worker
+
+If you would like to add an item to the agenda, please open a pull request against this agenda.
 
 ### Media Working Group Teleconference - 2025-01-14
 
