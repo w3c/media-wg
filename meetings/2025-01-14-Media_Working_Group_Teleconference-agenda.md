@@ -4,6 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 * [w3c/media-session#350](https://github.com/w3c/mediasession/pull/350) Introduce a generic skip action as a replacement to skipad
 * Tracks on SourceBuffer with MSE in a worker
+* w3c/media-capabilities#222 - Should be ready for review
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
