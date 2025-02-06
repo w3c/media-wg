@@ -4,7 +4,23 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-Agenda items TBC
+- Welcome
+- Bernard Aboba
+- Rechartering
+  - The [Media WG charter](https://www.w3.org/2023/06/media-wg-charter.html) expires on 31 May 2025. Are there any additions or changes we want to make to our scope?
+- WebCodecs
+  - [w3c/webcodecs#879](https://github.com/w3c/webcodecs/issues/879) Clarify that all VideoFrameMetadata members are optional
+  - [w3c/webcodecs#849](https://github.com/w3c/webcodecs/issues/849) Guidance for user-defined VideoFrameMetadata entries
+- Media Capabilities next steps after merging [w3c/media-capabilities#222 Fixup MIME usage](https://github.com/w3c/media-capabilities/pull/222)
+  - [V1 open PRs](https://github.com/w3c/media-capabilities/pulls?q=is%3Apr+is%3Aopen+milestone%3AV1)
+  - [w3c/media-capabilities#235](https://github.com/w3c/media-capabilities/issues/235) Why does it matter if a single media codec is listed?
+  - [w3c/media-capabilities#238](https://github.com/w3c/media-capabilities/issues/238) Do WebRTC encoding/decoding types have the single-codec restrictions?
+- Media Source Extensions (in brief)
+  - [w3c/media-source#359](https://github.com/w3c/media-source/issues/359) Dynamic addition/removal of SourceBuffers
+  - [w3c/media-source#360](https://github.com/w3c/media-source/issues/360) Multiple attachable/detachable SourceBuffers
+  - Any WG feedback or clarifying questions?
+- Audio Session
+  - Is this ready to request Accessibility review?
 
 ### Media Working Group Teleconference - 2025-02-11
 
