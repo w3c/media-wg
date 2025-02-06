@@ -21,6 +21,7 @@ If you would like to add an item to the agenda, please open a pull request again
   - Any WG feedback or clarifying questions?
 - Audio Session
   - Is this ready to request Accessibility review?
+  - [https://github.com/w3c/mediacapture-output/issues/141] Set Default Audio Output Device API (SetPreferredSinkId, previously SetDefaultSinkId)
 
 ### Media Working Group Teleconference - 2025-02-11
 
