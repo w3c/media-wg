@@ -21,6 +21,11 @@ If you would like to add an item to the agenda, please open a pull request again
   - Any WG feedback or clarifying questions?
 - Audio Session
   - Is this ready to request Accessibility review?
+- [media-playback-while-not-visible](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/IframeMediaPause/iframe_media_pausing.md) permission policy 
+  - Progress and status
+    - media-playback-while-not-visible ([Chrome Status](https://chromestatus.com/feature/5082950457884672))
+    - AudioContext "interrupted" state ([Chrome Status](https://chromestatus.com/feature/5172068166139904))
+  - Any WG feedback?
 
 ### Media Working Group Teleconference - 2025-02-11
 
