@@ -15,17 +15,18 @@ If you would like to add an item to the agenda, please open a pull request again
   - [V1 open PRs](https://github.com/w3c/media-capabilities/pulls?q=is%3Apr+is%3Aopen+milestone%3AV1)
   - [w3c/media-capabilities#235](https://github.com/w3c/media-capabilities/issues/235) Why does it matter if a single media codec is listed?
   - [w3c/media-capabilities#238](https://github.com/w3c/media-capabilities/issues/238) Do WebRTC encoding/decoding types have the single-codec restrictions?
-- Media Source Extensions (in brief)
-  - [w3c/media-source#359](https://github.com/w3c/media-source/issues/359) Dynamic addition/removal of SourceBuffers
-  - [w3c/media-source#360](https://github.com/w3c/media-source/issues/360) Multiple attachable/detachable SourceBuffers
-  - Any WG feedback or clarifying questions?
 - Audio Session
   - Is this ready to request Accessibility review?
+  - [https://github.com/w3c/mediacapture-output/issues/141] Set Default Audio Output Device API (SetPreferredSinkId, previously SetDefaultSinkId)
 - [media-playback-while-not-visible](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/IframeMediaPause/iframe_media_pausing.md) permission policy 
   - Progress and status
     - media-playback-while-not-visible ([Chrome Status](https://chromestatus.com/feature/5082950457884672))
     - AudioContext "interrupted" state ([Chrome Status](https://chromestatus.com/feature/5172068166139904))
   - Any WG feedback?
+- Media Source Extensions (in brief)
+  - [w3c/media-source#359](https://github.com/w3c/media-source/issues/359) Dynamic addition/removal of SourceBuffers
+  - [w3c/media-source#360](https://github.com/w3c/media-source/issues/360) Multiple attachable/detachable SourceBuffers
+  - Any WG feedback or clarifying questions?
 
 ### Media Working Group Teleconference - 2025-02-11
 
