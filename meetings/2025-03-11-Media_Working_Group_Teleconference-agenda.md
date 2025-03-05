@@ -2,7 +2,9 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2025-03-11-Media_Working_Group_Teleconference-agenda.md).
 
-* Agenda items TBC
+* Rechartering
+  * The [Media WG charter](https://www.w3.org/2023/06/media-wg-charter.html) expires on 31 May 2025. Are there any additions or changes we want to make to our scope?
+* Other agenda items TBC
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
