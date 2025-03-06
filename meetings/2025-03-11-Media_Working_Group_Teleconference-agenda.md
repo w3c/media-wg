@@ -4,7 +4,14 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 * Rechartering
   * The [Media WG charter](https://www.w3.org/2023/06/media-wg-charter.html) expires on 31 May 2025. Are there any additions or changes we want to make to our scope?
-* Other agenda items TBC
+* WebCodecs
+  * [w3c/web-codecs#351 Orientation metadata for VideoFrame
+](https://github.com/w3c/webcodecs/issues/351)
+* WebCodecs and MSE
+  * [whatwg/webidl#1465 Upgrade QuotaExceededError to a DOMException derived interface](https://github.com/whatwg/webidl/pull/1465)
+* Media Capabilities
+  * [web-platform-tests/wpt#51029 Add test cases to the 'webrtc' type for decoding and encoding](https://github.com/web-platform-tests/wpt/pull/51029)
+* Next Meeting
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
