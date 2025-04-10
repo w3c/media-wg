@@ -4,6 +4,7 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
+* [w3c/mediasession#358 Distiguishing manually triggered vs automatically triggered enterpictureinpicture](https://github.com/w3c/mediasession/issues/358) - @steimelchrome
 * [w3c/media-source#358 Support timed text in MSE](https://github.com/w3c/media-source/issues/358) - Alicia Boya García
   * See Alicia's [presentation](https://www.w3.org/2025/03/breakouts-day-2025/recordings/recording-14.html) from W3C Breakouts Day 2025
 * Other agenda items TBC
