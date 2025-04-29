@@ -6,6 +6,7 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/mediasession#358](https://github.com/w3c/mediasession/issues/358) Distiguishing manually triggered vs automatically triggered enterpictureinpicture
 * [w3c/audio-session#6](https://github.com/w3c/audio-session/issues/6) Should AudioSession be able to specify the output speaker and/or route options (a la sinkId)?
+* [w3c/media-capabilities#231](https://github.com/w3c/media-capabilities/pull/231) Handle video profiles mismatched with colorGamut and transferFunction.
 
 Other agenda items TBC.
 
