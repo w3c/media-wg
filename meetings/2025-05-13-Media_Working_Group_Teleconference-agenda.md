@@ -8,7 +8,8 @@ If you would like to add an item to the agenda, please open a pull request again
 * TPAC 2025 Plans - 10-14 November, Kobe Japan
   * Media WG meetings
   * Joint meetings (e.g., with Web RTC WG)
-* Specification issues TBC
+* Spec Issues
+  * [w3c/media-capabilities#243](https://github.com/w3c/media-capabilities/issues/243) Should MediaCapabilitiesDecodingInfo.configuration be marked as required?
 
 ### Media Working Group Teleconference - 2025-05-13
 
