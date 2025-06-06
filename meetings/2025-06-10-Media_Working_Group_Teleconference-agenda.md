@@ -4,8 +4,20 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
+#### Rechartering
+
+* AC review of the new [draft charter](https://www.w3.org/2025/06/media-wg-charter.html) is open until 4 July.
+
+#### Picture in Picture API
+
 * [w3c/picture-in-picture#239](https://github.com/w3c/picture-in-picture/issues/239) PictureInPictureWindow should expose a "visible" property
+* [w3c/picture-in-picture#219](https://github.com/w3c/picture-in-picture/issues/219) Candidate Recommendation tracking issue
+
+#### WebCodecs
+
 * [w3c/webcodecs#886](https://github.com/w3c/webcodecs/pull/886) Add backgroundSegmentationMask to VideoFrameMetadata registry
+* [w3c/webcodecs#783](https://github.com/w3c/webcodecs/issues/783) Define scope for Candidate Recommendation
+  * [Issues labelled CR Blocking](https://github.com/w3c/webcodecs/labels/CR%20Blocking)
 
 Other agenda items TBC.
 
