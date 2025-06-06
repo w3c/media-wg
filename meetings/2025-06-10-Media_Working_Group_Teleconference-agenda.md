@@ -4,7 +4,8 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
-* [w3c/picture-in-picture#239 PictureInPictureWindow should expose a "visible" property](https://github.com/w3c/picture-in-picture/issues/239)
+* [w3c/picture-in-picture#239](https://github.com/w3c/picture-in-picture/issues/239) PictureInPictureWindow should expose a "visible" property
+* [w3c/webcodecs#886](https://github.com/w3c/webcodecs/pull/886) Add backgroundSegmentationMask to VideoFrameMetadata registry
 
 Other agenda items TBC.
 
