@@ -2,7 +2,7 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2025-06-10-Media_Working_Group_Teleconference-agenda.md).
 
-If you would like to add an item to the agenda, please open a pull request against this agenda.
+If you would like to add an item to the agenda, please open a pull request against this agenda or contact the chairs.
 
 #### Rechartering
 
@@ -18,8 +18,6 @@ If you would like to add an item to the agenda, please open a pull request again
 * [w3c/webcodecs#886](https://github.com/w3c/webcodecs/pull/886) Add backgroundSegmentationMask to VideoFrameMetadata registry
 * [w3c/webcodecs#783](https://github.com/w3c/webcodecs/issues/783) Define scope for Candidate Recommendation
   * [Issues labelled CR Blocking](https://github.com/w3c/webcodecs/labels/CR%20Blocking)
-
-Other agenda items TBC.
 
 ### Media Working Group Teleconference - 2025-06-10
 
