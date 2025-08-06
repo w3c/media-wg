@@ -5,12 +5,14 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 If you would like to add an item to the agenda, please open a pull request against this agenda.
 
 * Media WG Charter update and feedback from Advisory Committee and TAG review regarding Encrypted Media Extensions - chrisn
+  * [w3ctag/design-reviews#1082](https://github.com/w3ctag/design-reviews/issues/1082) TAG review of Media WG charter
+  * [w3c/encrypted-media#570](https://github.com/w3c/encrypted-media/pull/570) Note loosening implementation requirements is out of scope
 
-* [w3c/media-capabilities#185 Retrieving RTCRtpCodecCapability from MediaCapabilities when queried for webrtc](https://github.com/w3c/media-capabilities/issues/185) - youennf
+* [w3c/media-capabilities#185](https://github.com/w3c/media-capabilities/issues/185) Retrieving RTCRtpCodecCapability from MediaCapabilities when queried for webrtc - youennf
 
-* [w3c/media-capabilities#246 Update VideoConfiguration bitrate definition](https://github.com/w3c/media-capabilities/pull/246) - markafoltz
+* [w3c/media-capabilities#246](https://github.com/w3c/media-capabilities/pull/246) Update VideoConfiguration bitrate definition - markafoltz
 
-* [w3c/media-capabilities#247 [Meta] Create a Level 2 spec?](https://github.com/w3c/media-capabilities/issues/247) - markafoltz
+* [w3c/media-capabilities#247](https://github.com/w3c/media-capabilities/issues/247) Create a Level 2 spec? - markafoltz
 
 ### Media Working Group Teleconference - 2025-08-12
 
