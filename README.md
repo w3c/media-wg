@@ -8,7 +8,7 @@ Specifications published by the Media Working Group are developed in separate Gi
 
 | Specification | WPT | Horizontal review tracker |
 | ------------- | --- | ------------------------- |
-| [Audio Session](https://github.com/w3c/audio-session) | To do | To do |
+| [Audio Session](https://github.com/w3c/audio-session) | To do | [Issue #44](https://github.com/w3c/audio-session/issues/44) |
 | [Autoplay Policy Detection](https://github.com/w3c/autoplay/) | [WPT](https://wpt.fyi/results/autoplay-policy-detection) | [Issue #30](https://github.com/w3c/autoplay/issues/30) |
 | [Encrypted Media Extensions (EME)](https://github.com/w3c/encrypted-media/) | [WPT](https://wpt.fyi/results/encrypted-media) | [Issue #558](https://github.com/w3c/encrypted-media/issues/558) |
 | - [Encrypted Media Extensions Initialization Data Format Registry](https://github.com/w3c/encrypted-media/tree/main/format-registry/initdata) | |
