@@ -6,7 +6,7 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [media-playback-while-not-visible permission policy](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/IframeMediaPause/iframe_media_pausing.md) - Gabriel Brito
 * [w3c/audio-session#46](https://github.com/w3c/audio-session/issues/46) Some websites misuse AudioSession type, preventing microphone access - Andy Estes
-* TPAC 2026 plans - Chris Needham
+* TPAC 2025 plans - Chris Needham
 
 ### Media Working Group Teleconference - 2025-09-09
 
