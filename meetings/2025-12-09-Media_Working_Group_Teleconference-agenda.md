@@ -10,6 +10,8 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/media-playback-quality#28 Proceed to rec or upstream to HTML?](https://github.com/w3c/media-playback-quality/issues/28)
 
+* [w3c/media-playback-quality#25 Expose harmonic framerate counters](https://github.com/w3c/media-playback-quality/issues/25) and [w3c/media-playback-quality#26 Expose reproduction jitter counters](https://github.com/w3c/media-playback-quality/issues/26), next steps?
+
 ### Media Working Group Teleconference - 2025-12-09
 
 | Location | Date & Time |
