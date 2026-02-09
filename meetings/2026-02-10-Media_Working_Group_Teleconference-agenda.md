@@ -10,6 +10,8 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/media-capabilities#73](https://github.com/w3c/media-capabilities/issues/73) Better define channels in AudioConfiguration
 
+* [whatwg/html#12145](https://github.com/whatwg/html/issues/12145) Incorrect definition for media element pseudo class :stalled - @alastor0325
+
 Other topics TBD. The agenda is pretty light this time, so additional topics welcome. Or we'll keep the meeting short.
 
 ### Media Working Group Teleconference - 2026-02-10
