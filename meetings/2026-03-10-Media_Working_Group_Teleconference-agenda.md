@@ -2,6 +2,7 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2026-03-10-Media_Working_Group_Teleconference-agenda.md).
 
+* WebCodecs Guides / Better WebCodecs documentation: https://github.com/orgs/mdn/discussions/866
 * Media Source Extensions issue triage: https://github.com/w3c/media-source/issues (Decide milestones, next steps)
 
 If you would like to add an item to the agenda, please open a pull request against this agenda.
