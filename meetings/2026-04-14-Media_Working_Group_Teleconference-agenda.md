@@ -2,7 +2,10 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2026-04-14-Media_Working_Group_Teleconference-agenda.md).
 
-Agenda TBC. WG participants, especially spec editors, please suggest items for discussion. Please open a pull request against this agenda or contact the chairs.
+* [w3c/mediasession#370](https://github.com/w3c/mediasession/issues/370) Add site-provided transcripts to media session metadata (and PR [#371](https://github.com/w3c/mediasession/pull/371))
+* [w3c/mediasession#372](https://github.com/w3c/mediasession/issues/372) Add 'enterfullscreen' action (and PR [#373](https://github.com/w3c/mediasession/pull/373))
+
+Additional agenda items welcome. Please open a pull request against this agenda or contact the chairs.
 
 ### Media Working Group Teleconference - 2026-04-14
 
