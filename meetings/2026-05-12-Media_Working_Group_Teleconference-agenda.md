@@ -2,9 +2,9 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2026-05-12-Media_Working_Group_Teleconference-agenda.md).
 
-Agenda TBC.
+* [w3c/encrypted-media#583](https://github.com/w3c/encrypted-media/issues/583) Clarify definition and intent of "replacement algorithm" in update()
 
-If you would like to add an item to the agenda, please open a pull request against this agenda.
+Additional agenda items welcome. Please open a pull request against this agenda or contact the chairs.
 
 ### Media Working Group Teleconference - 2026-05-12
 
