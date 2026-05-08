@@ -3,6 +3,8 @@
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2026-05-12-Media_Working_Group_Teleconference-agenda.md).
 
 * [w3c/encrypted-media#583](https://github.com/w3c/encrypted-media/issues/583) Clarify definition and intent of "replacement algorithm" in update()
+* [w3c/encrypted-media#570](https://github.com/w3c/encrypted-media/pull/570) Note loosening impl requirements is out of scope in SOTD
+* [w3c/encrypted-media#558](https://github.com/w3c/encrypted-media/issues/558) Horizontal review status
 
 Additional agenda items welcome. Please open a pull request against this agenda or contact the chairs.
 
