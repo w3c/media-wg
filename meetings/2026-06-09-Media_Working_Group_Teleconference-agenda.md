@@ -2,7 +2,12 @@
 
 This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-wg/blob/main/meetings/2026-06-09-Media_Working_Group_Teleconference-agenda.md).
 
-Agenda TBC.
+Agenda:
+
+* Working session on Encrypted Media Extensions
+  * [w3c/encrypted-media#545](https://github.com/w3c/encrypted-media/issues/545) and [w3c/encrypted-media#595](https://github.com/w3c/encrypted-media/issues/595) Review Notes for normative requirements
+  * [w3c/encrypted-media#570](https://github.com/w3c/encrypted-media/pull/570) Loosening implementation requirements is out of scope in SOTD
+    * Specifically [this comment](https://github.com/w3c/encrypted-media/pull/570#issuecomment-4509786971): consider royalty free implementations and access to media
 
 To add an item to the agenda, please open a pull request against this agenda or contact the Chairs.
 
