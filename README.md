@@ -2,6 +2,8 @@
 
 This repository hosts the [home page of the Media Working Group](https://www.w3.org/media-wg/). The group uses the [issue tracker](https://github.com/w3c/media-wg/issues) to track group-wide discussions and resolutions.
 
+Meeting minutes can be found [here](https://www.w3.org/services/meeting-minutes/mediawg/?num=200).
+
 ## Specifications
 
 Specifications published by the Media Working Group are developed in separate GitHub repositories:
