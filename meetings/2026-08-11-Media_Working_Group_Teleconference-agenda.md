@@ -4,9 +4,10 @@ This agenda can be viewed and updated on [GitHub](https://github.com/w3c/media-w
 
 Other topics TBC. If you would like to add an item to the agenda, please open a pull request against this agenda or contact the Chairs.
 
-* Encrypted Media Extensions: PRs for review: https://github.com/w3c/encrypted-media/pulls
+* Welcome Alastor as new co-chair
+* [w3c/audio-session#3](https://github.com/w3c/audio-session/issues/3) In case an AudioSession is explicitly set, should some incompatible APIs start failing?
+* [w3c/mediasession#377](https://github.com/w3c/mediasession/issues/377) Media session should have a generic call-to-action handler
 * [w3c/media-wg#26](https://github.com/w3c/media-wg/issues/62) TPAC 2026 agenda planning
-
 
 ### Media Working Group Teleconference - 2026-08-11
 
