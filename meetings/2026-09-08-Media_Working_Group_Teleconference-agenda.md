@@ -10,6 +10,11 @@ If you would like to add an item to the agenda, please open a pull request again
 
 * [w3c/mediasession#372 Add 'enterfullscreen' action](https://github.com/w3c/mediasession/issues/372)
 
+* [w3c/mediasession#340 Make "skipad" action more generic](https://github.com/w3c/mediasession/issues/340) and PR [w3c/mediasession#350](https://github.com/w3c/mediasession/pull/350)
+
+* [w3c/mediasession#332 The update capture state algorithm needs refinement](https://github.com/w3c/mediasession/issues/332) and PR [w3c/mediasession#335](https://github.com/w3c/mediasession/pull/335)
+
+* Issue triage
 
 ### Media Working Group Teleconference - 2026-09-08
 
