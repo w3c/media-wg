@@ -7,7 +7,7 @@ If you would like to add an item to the agenda, please contact the chairs or ope
 * Encrypted Media Extensions
   * [w3c/encrypted-media#132](https://github.com/w3c/encrypted-media/issues/132) Continuous key rotation
   * [w3c/encrypted-media#251](https://github.com/w3c/encrypted-media/issues/251) Mixed encrypted / unencrypted content
-  *  [w3c/encrypted-media#638](https://github.com/w3c/encrypted-media/issues/638) Clarify keyStatuses behavior on MediaKeySession.remove() for Clear Key and "temporary" sessions
+  * [w3c/encrypted-media#638](https://github.com/w3c/encrypted-media/issues/638) Clarify keyStatuses behavior on MediaKeySession.remove() for Clear Key and "temporary" sessions
 * AOB
 
 ### Media Working Group Teleconference - 2026-11-10
